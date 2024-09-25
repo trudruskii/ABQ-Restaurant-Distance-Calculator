@@ -1,0 +1,5 @@
+35.0800, -106.6460, Whataburger
+35.0831, -106.5700, Chick-fil-A
+35.0538, -106.6744, Sonic Drive-In
+35.1034, -106.5208, Subway
+35.1082, -106.5783, Panda Express
